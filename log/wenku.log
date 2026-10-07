@@ -1,0 +1,14 @@
+2026-10-05 21:58:04 [casedata.py:25] [INFO] 读用例文件D:\OneDrive\桌面\wenkuzdh\data\wenku.xlsx
+2026-10-05 21:58:04 [conf.py:16] [INFO] 读服务器配置文件D:\OneDrive\桌面\wenkuzdh\conf\server.yml：{'browser_info': {'browser_name': 'chrome', 'driver_file': 'chromedriver.exe', 'user_data_dir': 'C:\\Chrome\\user'}, 'web_server': {'url': 'https://cuttlefish.baidu.com/shopmis?fr=index2023&_wkts_=1791206864426#/commodityManage/documentation'}}
+2026-10-05 21:58:04 [conf.py:51] [INFO] 本次测试使用的浏览器信息：{'browser_name': 'chrome', 'user_data_dir': 'C:\\Chrome\\user', 'driver_file': 'D:\\OneDrive\\桌面\\wenkuzdh\\drivers\\chromedriver.exe'}
+2026-10-05 21:58:05 [page.py:72] [INFO] 启动chrome浏览器
+2026-10-05 21:58:05 [conf.py:16] [INFO] 读服务器配置文件D:\OneDrive\桌面\wenkuzdh\conf\server.yml：{'browser_info': {'browser_name': 'chrome', 'driver_file': 'chromedriver.exe', 'user_data_dir': 'C:\\Chrome\\user'}, 'web_server': {'url': 'https://cuttlefish.baidu.com/shopmis?fr=index2023&_wkts_=1791206864426#/commodityManage/documentation'}}
+2026-10-05 21:58:05 [conf.py:28] [INFO] 获取基础网址：https://cuttlefish.baidu.com/shopmis?fr=index2023&_wkts_=1791206864426#/commodityManage/documentation
+2026-10-05 21:58:08 [page.py:85] [INFO] 打开网址https://cuttlefish.baidu.com/shopmis?fr=index2023&_wkts_=1791206864426#/commodityManage/documentation
+2026-10-05 21:58:13 [page.py:150] [INFO] 点击"文件上传"页面中的"上传文件"
+2026-10-05 21:58:23 [page.py:217] [INFO] 上传文件D:\OneDrive\桌面\百度文库/test1.pdf完成
+2026-10-05 21:58:30 [page.py:146] [ERROR] 点击"文件上传"页面中的"全部提交"出错：('xpath', '//span[contains(text(),"全部提交")]')未定位到元素，可增加等待时间或改变定位方式
+2026-10-05 21:58:31 [page.py:85] [INFO] 打开网址https://cuttlefish.baidu.com/shopmis?fr=index2023&_wkts_=1791206864426#/commodityManage/documentation
+2026-10-05 21:58:35 [page.py:146] [ERROR] 点击"文件上传"页面中的"上传文件"出错：('class name', 'add-new-btn')未定位到元素，可增加等待时间或改变定位方式
+2026-10-05 21:58:36 [page.py:85] [INFO] 打开网址https://cuttlefish.baidu.com/shopmis?fr=index2023&_wkts_=1791206864426#/commodityManage/documentation
+2026-10-05 21:58:40 [page.py:150] [INFO] 点击"文件上传"页面中的"上传文件"

@@ -1,0 +1,7 @@
+browser_info:
+  browser_name: chrome #浏览器名称：chrome / firefox / edge
+  driver_file: chromedriver.exe #浏览器驱动器文件的位置（在drivers目录下）
+  user_data_dir: C:\Chrome\user #chrome免登录时存储账号和密码等数据的目录
+
+web_server:
+  url: https://cuttlefish.baidu.com/shopmis?fr=index2023&_wkts_=1791206864426#/commodityManage/documentation
